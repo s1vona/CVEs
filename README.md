@@ -1,2 +1,2 @@
 # CVEs
-some CVEs I fucked
+some CVEs I f@cked
